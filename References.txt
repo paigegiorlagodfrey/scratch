@@ -1,0 +1,29 @@
+Burgasser et al. 	2004	http://adsabs.harvard.edu/abs/2004AJ....127.2856B
+Cruz et al. 		2004	http://adsabs.harvard.edu/abs/2004ApJ...604L..61C
+Burgasser et al. 	2006	http://adsabs.harvard.edu/abs/2006ApJ...637.1067B
+Chiu et al. 		2006	http://adsabs.harvard.edu/abs/2006AJ....131.2722C
+Looper, Kirkpatrick, Burgasser 	2007	http://adsabs.harvard.edu/abs/2007AJ....134.1162L
+Liebert & Burgasser 	2007	http://adsabs.harvard.edu/abs/2007ApJ...655..522L
+Burgasser 		2007	http://adsabs.harvard.edu/abs/2007ApJ...658..617B
+Burgasser et al.	2008	http://adsabs.harvard.edu/abs/2008ApJ...681..579B
+Sheppard & Cushing 	2009	http://adsabs.harvard.edu/abs/2009AJ....137..304S
+Burgasser et al. 	2010	http://adsabs.harvard.edu/abs/2010ApJ...710.1142B
+Kirkpatrick et al. 	2011	http://adsabs.harvard.edu/abs/2011ApJS..197...19K
+Mainzer et al.		2011	http://adsabs.harvard.edu/abs/2011ApJ...726...30M
+Mace et al. 		2013	http://adsabs.harvard.edu/abs/2013ApJS..205....6M
+
+
+
+Burgasser et al. 	2004	http://adsabs.harvard.edu/abs/2004AJ....127.2856B
+Burgasser et al. 	2006	http://adsabs.harvard.edu/abs/2006ApJ...637.1067B
+Burgasser 		2007	http://adsabs.harvard.edu/abs/2007ApJ...658..617B
+Burgasser et al.	2008	http://adsabs.harvard.edu/abs/2008ApJ...681..579B
+Burgasser et al. 	2010	http://adsabs.harvard.edu/abs/2010ApJ...710.1142B
+Chiu et al. 		2006	http://adsabs.harvard.edu/abs/2006AJ....131.2722C
+Cruz et al. 		2004	http://adsabs.harvard.edu/abs/2004ApJ...604L..61C
+Kirkpatrick et al. 	2011	http://adsabs.harvard.edu/abs/2011ApJS..197...19K
+Liebert & Burgasser 	2007	http://adsabs.harvard.edu/abs/2007ApJ...655..522L
+Looper, Kirkpatrick, Burgasser 	2007	http://adsabs.harvard.edu/abs/2007AJ....134.1162L
+Mace et al. 		2013	http://adsabs.harvard.edu/abs/2013ApJS..205....6M
+Mainzer et al.		2011	http://adsabs.harvard.edu/abs/2011ApJ...726...30M
+Sheppard & Cushing 	2009	http://adsabs.harvard.edu/abs/2009AJ....137..304S
